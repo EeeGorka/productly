@@ -541,7 +541,7 @@ body._lock {
 }
 
 .main__watch-video::before {
-  content: url(/img/play.svg);
+  content: url(../img/play.svg);
   max-height: 1.1875rem;
 }
 
@@ -643,7 +643,7 @@ body._lock {
 }
 
 .body-product-managers__item::before {
-  content: url(/img/check.svg);
+  content: url(../img/check.svg);
   padding: 0.625rem;
   background-color: #ff9900;
   border-radius: 38%;
